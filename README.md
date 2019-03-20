@@ -1,11 +1,15 @@
 # Joelthorner Logos
 ---------------------
 
+## 2019
+<img src="https://raw.githubusercontent.com/joelthorner/joelthorner-logos/master/2019/logo.png" height="250px" width="250px">
+<img src="https://raw.githubusercontent.com/joelthorner/joelthorner-logos/master/2019/logo-inverse.png" height="250px" width="250px">
+
 ## 2018
-![2018](https://raw.githubusercontent.com/joelthorner/joelthorner-logos/master/2018/logo.png)
+<img src="https://raw.githubusercontent.com/joelthorner/joelthorner-logos/master/2018/logo.png" height="250px" width="250px">
 
 ## 2016
-![2016](https://raw.githubusercontent.com/joelthorner/joelthorner-logos/master/2016/logo.png)
+<img src="https://raw.githubusercontent.com/joelthorner/joelthorner-logos/master/2016/logo.png" height="250px" width="250px">
 
 ## 2014
-![2014](https://raw.githubusercontent.com/joelthorner/joelthorner-logos/master/2014/logo.png)
+<img src="https://raw.githubusercontent.com/joelthorner/joelthorner-logos/master/2014/logo.png" height="250px" width="250px">
